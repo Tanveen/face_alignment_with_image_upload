@@ -6,4 +6,5 @@ Run the server on 4555 port, select the image to uplaod.
 ALong with Image upload, Alignment of the given image is done and shown.
 
 
-"PROJECT IS UNDER CONSTRUCTION"
+Flask and OpenCV (Python, Java Script and HTML5) 
+Single File upload, multiple file upload and saving it to the destination folder after face alignment. 
